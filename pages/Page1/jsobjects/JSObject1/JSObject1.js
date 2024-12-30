@@ -11,6 +11,8 @@ export default {
 	},
 	async myFun3 () {
 		return "aaa";
+	},
+	async myFun4 () {
+		return "jack";
 	}
-	
 }
