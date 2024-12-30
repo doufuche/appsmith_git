@@ -12,8 +12,8 @@ export default {
 	async myFun3 () {
 		return "aaa";
 	},
-	async myFun4 () {
-		return "jack";
+	async myFun4 (int bbb) {
+		return "jack" + bbb;
 	},
 	async myFun5 () {
 		return "jack5";
